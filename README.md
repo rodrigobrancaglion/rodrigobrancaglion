@@ -3,8 +3,12 @@
 <!--
 **rodrigobrancaglion/rodrigobrancaglion** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigobrancaglion/)](https://www.linkedin.com/in/rodrigobrancaglion/)
+[![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://linktr.ee/rodrigobrancaglion)](https://linktr.ee/rodrigobrancaglion)
+[![Gmail Badge](https://img.shields.io/badge/-rodrigo.brancaglion@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigo.brancaglion@gmail.com)](mailto:rodrigo.brancaglion@gmail.com)
 
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in [mention specific areas of interest, e.g., web development, data science, open-source contributions, etc.].
+
+Welcome to my GitHub profile! I'm a passionate developer with a keen interest in web development, open-source contributions, music, sport.
 
 ## 🚀 About Me
 
