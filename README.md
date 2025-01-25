@@ -65,6 +65,9 @@ Here are some of the technologies and tools I work with:
 -->
 <!-- BLOG-POST-LIST:END -->
 
+## 🔗 References
+
+- [Repositório de Eugenp](https://github.com/eugenp/nomedorepositorio)
 ---
 
 Thank you for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
