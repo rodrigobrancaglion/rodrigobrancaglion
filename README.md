@@ -7,21 +7,21 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ### 📫 Connect with Me:
 
-[![website](./img/globe-light.svg)](mailto:rodrigo.brancaglion@gmail.com)
-[![website](./img/globe-dark.svg)](mailto:rodrigo.brancaglion@gmail.com)
+[![linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/rodrigobrancaglion#gh-light-mode-only)
+[![linkedin](./img/linkedin-dark.svg)](https://www.linkedin.com/in/rodrigobrancaglion#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/rodrigobrancaglion/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/rodrigobrancaglion/#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://linktr.ee/rodrigobrancaglion#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://linktr.ee/rodrigobrancaglion#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![instagram](./img/instagram-light.svg)](https://instagram.com/rodrigobrancaglion#gh-light-mode-only)
+[![instagram](./img/instagram-dark.svg)](https://instagram.com/rodrigobrancaglion#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://x.com/r_brancaglion#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://x.com/r_brancaglion#gh-dark-mode-only)
+[![twitter](./img/twitter-light.svg)](https://x.com/r_brancaglion#gh-light-mode-only)
+[![twitter](./img/twitter-dark.svg)](https://x.com/r_brancaglion#gh-dark-mode-only)
 <!--
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+[![youtube](./img/youtube-light.svg)](https://youtube.com/rodrigobrancaglion#gh-light-mode-only)
+[![youtube](./img/youtube-dark.svg)](https://youtube.com/rodrigobrancaglion#gh-dark-mode-only)
 -->
 
 ### Languages and Tools:
@@ -96,6 +96,7 @@ Here are some of the technologies and tools I work with:
     <img alt="Rodrigo Brancaglion" src="https://github-readme-stats-rodrigo-brancaglions-projects.vercel.app/api/top-langs/?username=rodrigobrancaglion&theme=radical&layout=donut">
 </details>
 
+[email]: rodrigo.brancaglion@gmail.com
 [website]: https://rodrigobrancaglion.com
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/r_brancaglion
