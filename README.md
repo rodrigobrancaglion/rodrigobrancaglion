@@ -38,16 +38,16 @@ Here are some of the technologies and tools I work with:
 - **IntelliJ IDEA 2024.3**, **Docker**, **AWS**, **DBeaver**
 - **Postman**, **Insomnia**, **Swagger**, **Maven**
 
+<details>
+    <summary>:zap: 📈 GitHub Stats</summary>
+    <img align="left" alt="Rodrigo Brancaglion" src="https://github-readme-stats-rodrigo-brancaglions-projects.vercel.app/api?username=rodrigobrancaglion&show_icons=true&theme=radical">
+    <img align="left" alt="Rodrigo Brancaglion" src="https://github-readme-stats-rodrigo-brancaglions-projects.vercel.app/api/top-langs/?username=rodrigobrancaglion&theme=radical&layout=donut">
+    <img align="left" alt="Rodrigo Brancaglion" src="https://github-readme-stats-rodrigo-brancaglions-projects.vercel.app/api/pin/?username=rodrigobrancaglion&repo=github-readme-stats&theme=radical">
 
-## 📈 GitHub Stats
+</details>
 
-![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigobrancaglion&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigobrancaglion&theme=radical&layout=donut)
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rodrigobrancaglion&repo=github-readme-stats&theme=radical)
-
-
+<br />
+---
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/rodrigobrancaglion/)
