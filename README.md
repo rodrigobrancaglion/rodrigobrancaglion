@@ -1,21 +1,59 @@
-# Hi there, I'm Rodrigo Brancaglion 👋
-
 <!--
 **rodrigobrancaglion/rodrigobrancaglion** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigobrancaglion/)](https://www.linkedin.com/in/rodrigobrancaglion/)
-[![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://linktr.ee/rodrigobrancaglion)](https://linktr.ee/rodrigobrancaglion)
-[![Gmail Badge](https://img.shields.io/badge/-rodrigo.brancaglion@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigo.brancaglion@gmail.com)](mailto:rodrigo.brancaglion@gmail.com)
-
+# Hi there, I'm Rodrigo Brancaglion 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in web development, open-source contributions, music, sport.
 
+### Connect with me:
+
+[![website](./img/globe-light.svg)](mailto:rodrigo.brancaglion@gmail.com)
+[![website](./img/globe-dark.svg)](mailto:rodrigo.brancaglion@gmail.com)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/rodrigobrancaglion/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/rodrigobrancaglion/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://x.com/r_brancaglion#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://x.com/r_brancaglion#gh-dark-mode-only)
+<!--
+&nbsp;&nbsp;
+[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+-->
+
+### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][cssplaylist]
+[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />][cssplaylist]
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jsplaylist]
+[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][reactplaylist]
+[<img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
+[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
+[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
+
+<br />
+<br />
+
+---
+
 ## 🚀 About Me
 
-- 🌱 I’m currently diving deeper into **FlutterFlow** and **Angular** to expand my front-end and cross-platform development skills.  
-- 👯 I’m open to collaborating on **Java Spring projects**, **API development (REST/SOAP)**, and **automation testing**. I particularly enjoy working on scalable, high-performance applications.  
-- 💬 Ask me about **technology**, **investment stocks**, **classical music**, and **cycling**.  
-- 📫 How to reach me: [E-mail](mailto:rodrigo.brancaglion@gmail.com)  
+- 🌱 I’m currently diving deeper into **FlutterFlow** and **Angular** to expand my front-end and cross-platform development skills.
+- 👯 I’m open to collaborating on **Java Spring projects**, **API development (REST/SOAP)**, and **automation testing**. I particularly enjoy working on scalable, high-performance applications.
+- 💬 Ask me about **technology**, **investment stocks**, **classical music**, and **cycling**.
+- 📫 How to reach me: [E-mail](mailto:rodrigo.brancaglion@gmail.com)
 - ⚡ Fun fact 🚴🏻: I love cycling! Check out my rides on [Strava](https://www.strava.com/athletes/rodrigobrancaglion). Cycling helps me clear my mind and boosts creativity.
 
 
@@ -38,36 +76,24 @@ Here are some of the technologies and tools I work with:
 - **IntelliJ IDEA 2024.3**, **Docker**, **AWS**, **DBeaver**
 - **Postman**, **Insomnia**, **Swagger**, **Maven**
 
-<details>
-    <summary>:zap: 📈 GitHub Stats</summary>
-    <img align="left" alt="Rodrigo Brancaglion" src="https://github-readme-stats-rodrigo-brancaglions-projects.vercel.app/api?username=rodrigobrancaglion&show_icons=true&theme=radical">
-    <img align="left" alt="Rodrigo Brancaglion" src="https://github-readme-stats-rodrigo-brancaglions-projects.vercel.app/api/top-langs/?username=rodrigobrancaglion&theme=radical&layout=donut">
-    <img align="left" alt="Rodrigo Brancaglion" src="https://github-readme-stats-rodrigo-brancaglions-projects.vercel.app/api/pin/?username=rodrigobrancaglion&repo=github-readme-stats&theme=radical">
-
-</details>
-
-<br />
----
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/rodrigobrancaglion/)
-- [Twitter (X)](https://x.com/r_brancaglion)  
+- [Twitter (X)](https://x.com/r_brancaglion)
 - [Strava](https://www.strava.com/athletes/rodrigobrancaglion)
 <!-- - Personal Website: [Your Website URL]-->
-
-<!--
-## 📝 Latest Blog Posts
--->
-<!-- BLOG-POST-LIST:START -->
-<!--
-- [Your Blog Post Title](Your Blog Post URL)
-- [Your Blog Post Title](Your Blog Post URL)
--->
-<!-- BLOG-POST-LIST:END -->
 
 ## 🔗 References
 
 - [Repositório de Eugenp](https://github.com/eugenp/nomedorepositorio)
 ---
 
-Thank you for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
+<details>
+    <summary>:zap: 📈 GitHub Stats</summary>
+    <img alt="Rodrigo Brancaglion" src="https://github-readme-stats-rodrigo-brancaglions-projects.vercel.app/api?username=rodrigobrancaglion&show_icons=true&theme=radical">
+</details>
+
+<details>
+    <summary>:zap: 📈 GitHub Top Langs</summary>
+    <img alt="Rodrigo Brancaglion" src="https://github-readme-stats-rodrigo-brancaglions-projects.vercel.app/api/top-langs/?username=rodrigobrancaglion&theme=radical&layout=donut">
+</details>
