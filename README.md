@@ -88,12 +88,12 @@ Here are some of the technologies and tools I work with:
 
 <details>
     <summary>:zap: 📈 GitHub Stats</summary>
-    <img alt="Rodrigo Brancaglion" src="https://github-readme-stats-rodrigo-brancaglions-projects.vercel.app/api?username=rodrigobrancaglion&show_icons=true&theme=radical">
+    <img alt="Rodrigo Brancaglion" src="https://github-readme-stats-rodrigo-brancaglions-projects.vercel.app/api?username=rodrigobrancaglion&show_icons=true&theme=github_dark">
 </details>
 
 <details>
     <summary>:zap: 📈 GitHub Top Langs</summary>
-    <img alt="Rodrigo Brancaglion" src="https://github-readme-stats-rodrigo-brancaglions-projects.vercel.app/api/top-langs/?username=rodrigobrancaglion&theme=radical&layout=donut">
+    <img alt="Rodrigo Brancaglion" src="https://github-readme-stats-rodrigo-brancaglions-projects.vercel.app/api/top-langs/?username=rodrigobrancaglion&theme=github_dark&layout=donut">
 </details>
 
 [email]: rodrigo.brancaglion@gmail.com
