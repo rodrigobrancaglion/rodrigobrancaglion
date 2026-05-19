@@ -61,10 +61,10 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 Here are some of the technologies and tools I work with:
 
 ### Programming Languages
-- **Java 21**, **Python**, **Angular**, **Flutter**
+- **Java 21**, **Kotlin**, **Python**, **Angular**, **Flutter**
 
 ### Frameworks & Libraries
-- **SpringFramework 3.2.5** (SpringBoot, Spring Cloud, OpenFeign, Springdoc, Cache)
+- **SpringFramework 4.0.6** (SpringBoot, Spring Cloud, OpenFeign, Springdoc, Cache)
 - **Liquibase**, **Cucumber (Test Automation)**, **Lombok**, **Mapstruct**
 - **React**, **Node.js**, **Django**, **FlutterFlow**
 
@@ -72,7 +72,7 @@ Here are some of the technologies and tools I work with:
 - **Oracle**, **DB2**, **PostgreSQL**, **MySQL**, **SQL**
 
 ### Tools & Platforms
-- **IntelliJ IDEA 2024.3**, **Docker**, **AWS**, **DBeaver**
+- **IntelliJ IDEA 2025.2**, **Docker**, **AWS**, **DBeaver**
 - **Postman**, **Insomnia**, **Swagger**, **Maven**
 
 ## 🔗 References
@@ -97,7 +97,7 @@ Here are some of the technologies and tools I work with:
 </details>
 
 [email]: rodrigo.brancaglion@gmail.com
-[website]: https://rodrigobrancaglion.com
+[website]: https://rodrigobrancaglion.dev
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/r_brancaglion
 [youtube]: https://youtube.com/rodrigobrancaglion
